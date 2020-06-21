@@ -1,11 +1,12 @@
 {
-  "name": "e-commerse-website",
+  "name": "NodeBackend",
   "version": "1.0.0",
-  "description": "my first ecommerse website",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
