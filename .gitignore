@@ -1,9 +1,31 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-ecommerce-front-end/node_modules
-ecommerce-front-end/.env
+ReactFrontend/node_modules
+ReactFrontend/.env
 NodeBackend/.env
 NodeBackend/node_modules
 
 gitsteps.txt
+
+# dependencies
+
+ReactFrontend/.pnp
+ReactFrontend/.pnp.js
+
+# testing
+ReactFrontend/coverage
+
+# production
+ReactFrontend/build
+
+# misc
+ReactFrontend/.DS_Store
+ReactFrontend/.env.local
+ReactFrontend/.env.development.local
+ReactFrontend/.env.test.local
+ReactFrontend/.env.production.local
+
+ReactFrontend/npm-debug.log*
+ReactFrontend/yarn-debug.log*
+ReactFrontend/yarn-error.log*
